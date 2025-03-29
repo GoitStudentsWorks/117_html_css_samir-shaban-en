@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/dev-team-web/",
+    "build": "vite build --base=/117_html_css_samir-shaban-en/",
     "preview": "vite preview"
   },
   "devDependencies": {
